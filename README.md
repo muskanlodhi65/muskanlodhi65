@@ -31,7 +31,7 @@
 
 <br/>
 
-## 👩‍💻 About Me
+##  About Me
 
 ```yaml
 engineer:
@@ -42,7 +42,7 @@ engineer:
     - Designing and deploying end-to-end machine learning pipelines
     - Architecting offline-resilient full-stack kiosk & web systems
     - Prompt engineering with generative models (Stable Diffusion)
-  top_achievement: "🏆 National Hackathon Winner (SUVIDHA) — ₹3 Lakh cash prize, C-DAC & MeitY"
+  top_achievement: " National Hackathon Winner (SUVIDHA) — ₹3 Lakh cash prize, C-DAC & MeitY"
   currently_learning:
     - "Advanced Generative AI & RAG systems"
     - "Scalable backend architecture"
@@ -54,11 +54,11 @@ I'm a third-year B.Tech AI & ML student who enjoys turning ideas into working, d
 
 <div align="center">
 
-🔭 **Currently working on:** Scaling SUVIDHA's kiosk architecture · exploring RAG-based systems
-🌱 **Currently learning:** Advanced Generative AI, LangChain/LangGraph, system design
-🤝 **Open to collaborate on:** AI/ML projects, hackathons, open-source
-💬 **Ask me about:** `Machine Learning` `Generative AI` `React` `Flask/FastAPI` `Hackathons`
-📫 **Reach me at:** [muskanlodhi5190@gmail.com](mailto:muskanlodhi5190@gmail.com)
+ **Currently working on:** Scaling SUVIDHA's kiosk architecture · exploring RAG-based systems
+ **Currently learning:** Advanced Generative AI, LangChain/LangGraph, system design
+ **Open to collaborate on:** AI/ML projects, hackathons, open-source
+ **Ask me about:** `Machine Learning` `Generative AI` `React` `Flask/FastAPI` `Hackathons`
+ **Reach me at:** [muskanlodhi5190@gmail.com](mailto:muskanlodhi5190@gmail.com)
 
 </div>
 
@@ -70,7 +70,7 @@ I'm a third-year B.Tech AI & ML student who enjoys turning ideas into working, d
 
 ---
 
-## ⚙️ Tech Stack
+##  Tech Stack
 
 <div align="center">
 
@@ -86,21 +86,21 @@ I'm a third-year B.Tech AI & ML student who enjoys turning ideas into working, d
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 <details open>
-<summary><b>🏛️ SUVIDHA — Smart Civic Service Kiosk 🏆</b></summary>
+<summary><b> SUVIDHA — Smart Civic Service Kiosk </b></summary>
 <br/>
 
 AI-powered civic service kiosk built for 55-inch Android touchscreens, enabling automated complaint routing for Electricity, Gas, and Municipal Corporation services. Offline-resilient, accessible interface with multilingual assistance.
 
 - **Stack:** React.js · React Native/Expo · AI Complaint Routing
-- **Impact:** 🥇 1st Place & ₹3 Lakh cash prize — National Hackathon, C-DAC & MeitY (New Delhi, 2026)
+- **Impact:**  1st Place & ₹3 Lakh cash prize — National Hackathon, C-DAC & MeitY (New Delhi, 2026)
 - **Repo:** [github.com/muskanlodhi65](https://github.com/muskanlodhi65)
 </details>
 
 <details>
-<summary><b>🏠 Dream Design AI — Generative Architecture Platform</b></summary>
+<summary><b> Dream Design AI — Generative Architecture Platform</b></summary>
 <br/>
 
 Full-stack AI platform that generates personalized architectural designs from user preferences (room type, style, budget, theme) through a questionnaire-driven prompt engineering pipeline.
@@ -111,7 +111,7 @@ Full-stack AI platform that generates personalized architectural designs from us
 </details>
 
 <details>
-<summary><b>🤝 Community Share Hub — Resource Sharing Platform</b></summary>
+<summary><b> Community Share Hub — Resource Sharing Platform</b></summary>
 <br/>
 
 Community-driven platform for users to securely post, discover, and exchange resources and opportunities within their network.
@@ -133,19 +133,19 @@ Physics-informed digital twin framework for real-time four-stage turbojet health
 
 ---
 
-## 🏆 Achievements
+##  Achievements
 
-- 🥇 **National Hackathon Winner (SUVIDHA)** — C-DAC & MeitY, New Delhi 2026 — ₹3 Lakh cash prize
-- 🚀 **Aerothon 2026 Finalist (Team Avyay)** — IIT Indore x HAL
-- 🎯 **IndiaAI Innovation Challenge Finalist** — Built INDRA, an AI-powered crisis management system
-- 🛰️ **ISRO Ideathon — 2nd Rank**, Symbiosis International — space debris mitigation
-- 🌟 **Parikalp 2025 — Runner-Up (2 Events)**, MANIT Bhopal — asteroid deflection & debris removal
+-  **National Hackathon Winner (SUVIDHA)** — C-DAC & MeitY, New Delhi 2026 — ₹3 Lakh cash prize
+-  **Aerothon 2026 Finalist (Team Avyay)** — IIT Indore x HAL
+-  **IndiaAI Innovation Challenge Finalist** — Built INDRA, an AI-powered crisis management system
+-  **ISRO Ideathon — 2nd Rank**, Symbiosis International — space debris mitigation
+-  **Parikalp 2025 — Runner-Up (2 Events)**, MANIT Bhopal — asteroid deflection & debris removal
 
 **Certifications:** NVIDIA — Application of AI & Anomaly Detection · NPTEL — The Joy of Computing Using Python
 
 ---
 
-## 🏅 GitHub Trophies
+##  GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=muskanlodhi65&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
@@ -153,7 +153,7 @@ Physics-informed digital twin framework for real-time four-stage turbojet health
 
 ---
 
-## 📊 GitHub Analytics
+##  GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=muskanlodhi65&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Muskan's GitHub Stats" width="48%" />
@@ -164,12 +164,12 @@ Physics-informed digital twin framework for real-time four-stage turbojet health
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=muskanlodhi65&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="97%" />
 </p>
 
-<h3 align="center">💻 Contribution Activity</h3>
+<h3 align="center"> Contribution Activity</h3>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=muskanlodhi65&theme=tokyonight&hide_border=true" width="97%" alt="Activity Graph" />
 </p>
 
-<h3 align="center">🐍 Contribution Snake</h3>
+<h3 align="center"> Contribution Snake</h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/muskanlodhi65/muskanlodhi65/output/github-contribution-grid-snake-dark.svg" width="97%" alt="Snake Animation" />
 </p>
