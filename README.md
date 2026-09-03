@@ -1,12 +1,12 @@
 <div align="center">
 
-# Muskan Lodhi
+<h1 align="center"><font size="7" color="#155D27">Muskan </font><font size="7" color="#2EA043">Lodhi</font></h1>
 
 > *"The best way to predict the future is to invent it."* — Alan Kay
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Muskan+Lodhi+%F0%9F%91%8B;AI%2FML+Engineer+%C2%B7+Full+Stack+Developer;National+Hackathon+Winner+-+SUVIDHA;Building+AI+that+solves+real-world+problems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=3000&pause=1000&color=2EA043&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Muskan+Lodhi+%F0%9F%91%8B;AI%2FML+Engineer+%C2%B7+Full+Stack+Developer;National+Hackathon+Winner+-+SUVIDHA;Building+AI+that+solves+real-world+problems" alt="Typing SVG" />
 
 <br/>
 
