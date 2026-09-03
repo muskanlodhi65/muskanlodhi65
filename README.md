@@ -48,19 +48,16 @@ engineer:
     - "Scalable backend architecture"
 ```
 
-I'm a third-year B.Tech AI & ML student who enjoys turning ideas into working, deployable systems — from civic-tech kiosks to generative design tools. I've won a national hackathon, made it to the Aerothon 2026 finals, and completed a backend engineering internship. I like solving problems that actually matter, and I'm always looking for the next hard thing to build.
-
-<br/>
-
-<div align="center">
-
-**Currently working on:** Scaling SUVIDHA's kiosk architecture · exploring RAG-based systems  
-**Currently learning:** Advanced Generative AI, LangChain/LangGraph, system design  
-**Open to collaborate on:** AI/ML projects, hackathons, open-source  
-**Ask me about:** `Machine Learning` `Generative AI` `React` `Flask/FastAPI` `Hackathons`  
-**Reach me at:** [muskanlodhi5190@gmail.com](mailto:muskanlodhi5190@gmail.com)
-
-</div>
+> **Bio & Summary**  
+> I'm a third-year B.Tech AI & ML student who enjoys turning ideas into working, deployable systems — from civic-tech kiosks to generative design tools. I've won a national hackathon, made it to the Aerothon 2026 finals, and completed a backend engineering internship. I like solving problems that actually matter, and I'm always looking for the next hard thing to build.
+> 
+> ---
+> 
+> **Currently working on:** Scaling SUVIDHA's kiosk architecture · exploring RAG-based systems  
+> **Currently learning:** Advanced Generative AI, LangChain/LangGraph, system design  
+> **Open to collaborate on:** AI/ML projects, hackathons, open-source  
+> **Ask me about:** `Machine Learning` `Generative AI` `React` `Flask/FastAPI` `Hackathons`  
+> **Reach me at:** [muskanlodhi5190@gmail.com](mailto:muskanlodhi5190@gmail.com)
 
 <br/>
 
