@@ -12,7 +12,7 @@
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muskan-lodhi-6b4259298)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muskanlodhi5190@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-muskanlodhi5190%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muskanlodhi5190@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/muskanlodhi65)
 
 <br/>
@@ -59,7 +59,7 @@ I'm a third-year B.Tech AI & ML student who enjoys turning ideas into working, d
 🌱 **Currently learning:** Advanced Generative AI, LangChain/LangGraph, system design
 🤝 **Open to collaborate on:** AI/ML projects, hackathons, open-source
 💬 **Ask me about:** `Machine Learning` `Generative AI` `React` `Flask/FastAPI` `Hackathons`
-📫 **Reach me at:** muskanlodhi5190@gmail.com
+📫 **Reach me at:** [muskanlodhi5190@gmail.com](mailto:muskanlodhi5190@gmail.com)
 
 </div>
 
