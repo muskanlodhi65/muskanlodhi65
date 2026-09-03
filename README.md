@@ -1,8 +1,6 @@
 <div align="center">
 
-<h1 align="center"><font size="7" color="#155D27">Muskan </font><font size="7" color="#2EA043">Lodhi</font></h1>
-
-> *"The best way to predict the future is to invent it."* — Alan Kay
+<img src="https://capsule-render.vercel.app/api?type=waving&color=052e16,0d4220&height=220&section=header&text=Muskan%20Lodhi&fontSize=70&fontColor=2ea043&fontAlignY=38&desc=%22The%20best%20way%20to%20predict%20the%20future%20is%20to%20invent%20it.%22%20%E2%80%94%20Alan%20Kay&descSize=16&descAlignY=62&descColor=86efac" width="100%" alt="Muskan Lodhi Header" />
 
 <br/>
 
