@@ -1,5 +1,11 @@
 <div align="center">
 
+# Muskan Lodhi
+
+> *"The best way to predict the future is to invent it."* — Alan Kay
+
+<br/>
+
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Muskan+Lodhi+%F0%9F%91%8B;AI%2FML+Engineer+%C2%B7+Full+Stack+Developer;National+Hackathon+Winner+-+SUVIDHA;Building+AI+that+solves+real-world+problems" alt="Typing SVG" />
 
 <br/>
@@ -49,7 +55,7 @@ engineer:
 ```
 
 > **Bio & Summary**  
-> I'm a third-year B.Tech AI & ML student who enjoys turning ideas into working, deployable systems — from civic-tech kiosks to generative design tools. I've won a national hackathon, made it to the Aerothon 2026 finals, and completed a backend engineering internship. I like solving problems that actually matter, and I'm always looking for the next hard thing to build.
+> I'm a final-year B.Tech AI & ML student who enjoys turning ideas into working, deployable systems — from civic-tech kiosks to generative design tools. I've won a national hackathon, made it to the Aerothon 2026 finals, and completed a backend engineering internship. I like solving problems that actually matter, and I'm always looking for the next hard thing to build.
 > 
 > ---
 > 
