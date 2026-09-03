@@ -133,23 +133,22 @@ Physics-informed digital twin framework for real-time four-stage turbojet health
 
 ---
 
-##  Achievements
+## 🏆 Key Achievements & Highlights
 
--  **National Hackathon Winner (SUVIDHA)** — C-DAC & MeitY, New Delhi 2026 — ₹3 Lakh cash prize
--  **Aerothon 2026 Finalist (Team Avyay)** — IIT Indore x HAL
--  **IndiaAI Innovation Challenge Finalist** — Built INDRA, an AI-powered crisis management system
--  **ISRO Ideathon — 2nd Rank**, Symbiosis International — space debris mitigation
--  **Parikalp 2025 — Runner-Up (2 Events)**, MANIT Bhopal — asteroid deflection & debris removal
-
-**Certifications:** NVIDIA — Application of AI & Anomaly Detection · NPTEL — The Joy of Computing Using Python
-
----
-
-##  GitHub Trophies
+- 🥇 **National Hackathon Winner (SUVIDHA)** — C-DAC & MeitY, New Delhi 2026 — ₹3 Lakh cash prize
+- 🚀 **Aerothon 2026 Finalist (Team Avyay)** — IIT Indore x HAL
+- 🎯 **IndiaAI Innovation Challenge Finalist** — Built INDRA, an AI-powered crisis management system
+- 🛰️ **ISRO Ideathon — 2nd Rank**, Symbiosis International — space debris mitigation
+- 🌟 **Parikalp 2025 — Runner-Up (2 Events)**, MANIT Bhopal — asteroid deflection & debris removal
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=muskanlodhi65&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+  <img src="https://img.shields.io/badge/National%20Winner-SUVIDHA%20₹3L-FFD700?style=for-the-badge&logo=trophy&logoColor=black" alt="National Winner" />
+  <img src="https://img.shields.io/badge/Aerothon%2026-Finalist-FF4500?style=for-the-badge&logo=rocket&logoColor=white" alt="Aerothon Finalist" />
+  <img src="https://img.shields.io/badge/ISRO%20Ideathon-Rank%202-00BFFF?style=for-the-badge&logo=satellite&logoColor=white" alt="ISRO Ideathon" />
+  <img src="https://img.shields.io/badge/IndiaAI-Finalist-32CD32?style=for-the-badge&logo=target&logoColor=white" alt="IndiaAI Finalist" />
 </p>
+
+**Certifications:** NVIDIA — Application of AI & Anomaly Detection · NPTEL — The Joy of Computing Using Python
 
 ---
 
