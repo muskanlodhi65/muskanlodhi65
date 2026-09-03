@@ -166,23 +166,13 @@ Physics-informed digital twin framework for real-time four-stage turbojet health
 
 <h3 align="center">💻 Contribution Activity</h3>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muskanlodhi65&theme=tokyo-night&hide_border=true" width="97%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muskanlodhi65&theme=tokyonight&hide_border=true" width="97%" alt="Activity Graph" />
 </p>
 
 <h3 align="center">🐍 Contribution Snake</h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/muskanlodhi65/muskanlodhi65/output/github-contribution-grid-snake-dark.svg" width="97%" alt="Snake Animation" />
 </p>
-
-> ⚙️ **Setup note:** the snake animation needs a one-time GitHub Action. Create `.github/workflows/snake.yml` in your `muskanlodhi65/muskanlodhi65` repo using the [Platane/snk](https://github.com/Platane/snk) action — it auto-generates and commits this SVG daily from your real contribution graph.
-
----
-
-## ⏱️ Weekly Coding Activity
-
-<!--START_SECTION:waka-->
-<!-- Connect WakaTime + the waka-readme GitHub Action to auto-fill this section -->
-<!--END_SECTION:waka-->
 
 ---
 
